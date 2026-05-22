@@ -12,36 +12,7 @@ Backend Specialist, Full-Stack Software Engineer, & Founder specialized in 𝗣�
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🚀 Languages
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Go](https://shields.io)
-![SQL](https://shields.io)
-![C++](https://shields.io)
-
-#### 🎨 Frontend
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![TailwindCSS](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
-#### ⚙️ Backend & Databases
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
-![SQLite](https://shields.io)
-![Prisma](https://shields.io)
-
-#### ☁️ DevOps & Architecture
-![AWS](https://shields.io)
-![Docker](https://shields.io)
-![Vercel](https://shields.io)
-![Redis](https://shields.io)
-![Git](https://shields.io)
-![Linux](https://shields.io)
+<image-card alt="My Skills" src="https://skillicons.dev/icons?i=python,js,ts,go,react,next,tailwind,nodejs,postgres,mongodb,prisma,aws,docker,vercel,redis,git,linux" ></image-card>
 
 ---
 
