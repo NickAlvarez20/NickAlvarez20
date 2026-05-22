@@ -12,7 +12,7 @@ Backend Specialist, Full-Stack Software Engineer, & Founder specialized in 𝗣�
 
 ### 🛠️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,nodejs,react,next,tailwind,express,prisma,postgres,mongodb,sqlite,aws,docker,vercel,redis,git,linux,cpp&perline=12)
+![My Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,nodejs,react,next,tailwind,express,prisma,postgres,mongodb,sqlite,aws,docker,vercel,redis,git,linux,cpp,leetcode&perline=12)
 
 ---
 
