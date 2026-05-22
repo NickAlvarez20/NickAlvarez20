@@ -12,26 +12,36 @@ Backend Specialist, Full-Stack Software Engineer, & Founder specialized in 𝗣�
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, JavaScript, TypeScript, Go (Golang), SQL, C++
-* **Frontend:** React (Next.js/Vite), Tailwind CSS, Responsive Design, HTML5/CSS3
-* **Backend & Databases:** Node.js, Express, Gin, PostgreSQL, MongoDB, SQLite, Prisma, GORM, RESTful APIs
-* **DevOps & Architecture:** AWS, Docker (Containerization), Vercel, Redis, Serverless, Git/GitHub, Linux (Bash), CI/CD
-* **Engineering & AI:** Data Structures & Algorithms (DSA), Concurrency, Unit/Integration/E2E Testing (Pytest), LLM Integration, Prompt Engineering
+#### 🚀 Languages
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Go](https://shields.io)
+![SQL](https://shields.io)
+![C++](https://shields.io)
 
----
+#### 🎨 Frontend
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![TailwindCSS](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
-### 📂 Featured Projects
+#### ⚙️ Backend & Databases
+![NodeJS](https://shields.io)
+![Express.js](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+![SQLite](https://shields.io)
+![Prisma](https://shields.io)
 
-* **Relationhance:** A full-stack gamified SaaS platform with LLM-AI suggestions and tiered Stripe monetization.
-* **Matrix-Library:** High-performance library management app built with Go (Gin/GORM), React, and SQLite.
-* **EndpointDB:** Containerized social media app deployed on AWS with HTTPS/TLS encryption and JWT authentication.
-
----
-
-### 📊 GitHub Stats
-
-![Nick's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+#### ☁️ DevOps & Architecture
+![AWS](https://shields.io)
+![Docker](https://shields.io)
+![Vercel](https://shields.io)
+![Redis](https://shields.io)
+![Git](https://shields.io)
+![Linux](https://shields.io)
 
 ---
 
