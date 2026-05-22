@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Nick Alvarez! (@nickalvarez20)
 
-<!--
-**NickAlvarez20/NickAlvarez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 **Current Focus:** Building scalable, monetized full-stack platforms and backend systems.
+- 💡 **Background:** Deep roots in Economics combined with a 4.0 GPA in Software Development.
+- 🏆 **Achievements:** Top 9% LeetCode | Top 2.2% Codewars | 2000+ Chess Elo | World Record Holder.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, JavaScript, TypeScript, Go (Golang), SQL, C++
+* **Frontend:** React (Next.js/Vite), Tailwind CSS, Responsive Design, HTML5/CSS3
+* **Backend & Databases:** Node.js, Express, Gin, PostgreSQL, MongoDB, SQLite, Prisma, GORM, RESTful APIs
+* **DevOps & Architecture:** AWS, Docker (Containerization), Vercel, Redis, Serverless, Git/GitHub, Linux (Bash), CI/CD
+* **Engineering & AI:** Data Structures & Algorithms (DSA), Concurrency, Unit/Integration/E2E Testing (Pytest), LLM Integration, Prompt Engineering
+
+---
+
+### 📂 Featured Projects
+
+* **Relationhance:** A full-stack gamified SaaS platform with LLM-AI suggestions and tiered Stripe monetization.
+* **Matrix-Library:** High-performance library management app built with Go (Gin/GORM), React, and SQLite.
+* **EndpointDB:** Containerized social media app deployed on AWS with HTTPS/TLS encryption and JWT authentication.
+
+---
+
+### 📊 GitHub Stats
+
+![Nick's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 **Portfolio/Blog:** [NickAlvarez.dev](https://nickalvarez.dev/)
+- 💼 **LinkedIn:** [linkedin.com/in/Nicholas-A-Alvarez](https://www.linkedin.com/in/nicholas-a-alvarez/)
+- 📧 **Email:** NicholasAAlvarez7@gmail.com
