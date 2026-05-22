@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nick Alvarez! (@nickalvarez20)
 
 ###
-Full-Stack Software Engineer & Founder specialized in 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗚𝗼, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗦𝗤𝗟, 𝗡𝗼𝗦𝗤𝗟, 𝗖++, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗿𝗶𝘀𝗺𝗮, and 𝗔𝗜 (Claude, etc.) with 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 deploying secure apps using 𝗥𝗘𝗦𝗧ful 𝗔𝗣𝗜s on 𝗔𝗪𝗦 & 𝗩𝗲𝗿𝗰𝗲𝗹. Trained by former 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗮𝗻𝗱 𝗜𝗕𝗠 top software engineers, TechwithTim and Caleb Curry. I recently completed my specialization in 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 at CourseCareers Software Development course. 
+Full-Stack Software Engineer & Founder specialized in 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗚𝗼, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗦𝗤𝗟, 𝗡𝗼𝗦𝗤𝗟, 𝗖++, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗿𝗶𝘀𝗺𝗮, and 𝗔𝗜 (Claude, etc.) with 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 deploying secure apps using 𝗥𝗘𝗦𝗧ful 𝗔𝗣𝗜s on 𝗔𝗪𝗦 & 𝗩𝗲𝗿𝗰𝗲𝗹. Trained by former 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗮𝗻𝗱 𝗜𝗕𝗠 top software engineers, TechwithTim and Caleb Curry. I recently completed my specialization in 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 at CourseCareers Software Development course with a 4.0 GPA.
 
 ### 🚀 About Me
 - 🔭 **Current Focus:** Building scalable, monetized full-stack platforms and backend systems.
