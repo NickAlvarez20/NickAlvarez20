@@ -19,5 +19,6 @@ Backend Specialist, Full-Stack Software Engineer, & Founder specialized in 𝗣�
 ### 📫 Connect with Me
 
 - 🌐 **Portfolio/Blog:** [NickAlvarez.dev](https://nickalvarez.dev/)
+- 🌐 **LeetCode:** [https://leetcode.com/u/MissionZero555/]
 - 💼 **LinkedIn:** [linkedin.com/in/Nicholas-A-Alvarez](https://www.linkedin.com/in/nicholas-a-alvarez/)
 - 📧 **Email:** NicholasAAlvarez7@gmail.com
