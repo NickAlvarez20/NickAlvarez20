@@ -6,7 +6,7 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in 𝗣�
 ### 🚀 About Me
 - 🔭 **Current Focus:** Building scalable, monetized full-stack platforms and backend systems.
 - 💡 **Background:** Deep roots in Economics, 100% Math Grades from 2nd-Calc 1 in 15 months, and 4.0 GPA in Software Development.
-- 🏆 **Achievements:** Top 9% LeetCode | Top 2.2% Codewars | 2000+ Chess Elo | World Record Holder.
+- 🏆 **Achievements:** Top 7% LeetCode | Top 2.2% Codewars | 2000+ Chess Elo | World Record Holder.
 
 ---
 
