@@ -31,11 +31,13 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Plotly.js](https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge)
 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go Concurrency](https://img.shields.io/badge/Go_Concurrency-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -44,11 +46,13 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 **Databases & data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6442?style=for-the-badge)
@@ -63,6 +67,8 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS_Elastic_Beanstalk-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-007EC6?style=for-the-badge)
 ![EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -75,6 +81,7 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 
 **AI & engineering**
 
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![xAI](https://img.shields.io/badge/xAI-000000?style=for-the-badge)
@@ -87,6 +94,7 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 ![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
 ![Chain-of-Thought](https://img.shields.io/badge/Chain--of--Thought-412991?style=for-the-badge)
@@ -94,7 +102,11 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 ![Tool Orchestration](https://img.shields.io/badge/Tool_Orchestration-007EC6?style=for-the-badge)
 ![JSON APIs](https://img.shields.io/badge/JSON_APIs-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Token Optimization](https://img.shields.io/badge/Token_Optimization-412991?style=for-the-badge)
+![Systems Design](https://img.shields.io/badge/Systems_Design-007EC6?style=for-the-badge)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 
