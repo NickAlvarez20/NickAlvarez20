@@ -1,7 +1,7 @@
 # 😁 Hey, I'm Nick Alvarez! (@nickalvarez20)
 
 ###
-Backend Specialist, Full-Stack Software Engineer, & Founder certified in 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗚𝗼, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗦𝗤𝗟, 𝗡𝗼𝗦𝗤𝗟, 𝗖++, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗿𝗶𝘀𝗺𝗮, and 𝗔𝗜 (Claude, etc.) with 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 deploying secure apps using 𝗥𝗘𝗦𝗧ful 𝗔𝗣𝗜s on 𝗔𝗪𝗦 & 𝗩𝗲𝗿𝗰𝗲𝗹. Trained by former 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗮𝗻𝗱 𝗜𝗕𝗠 top software engineers, TechwithTim and Caleb Curry. I completed my specialization in 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 at CourseCareers Software Development course with a 4.0 GPA.
+Backend Specialist, Full-Stack Software Engineer, & Founder certified in 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗚𝗼, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗦𝗤𝗟, 𝗡𝗼𝗦𝗤𝗟, 𝗖/𝗖++, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗿𝗶𝘀𝗺𝗮, and 𝗔𝗜 (Claude, etc.) with 𝟮 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 deploying secure apps using 𝗥𝗘𝗦𝗧ful 𝗔𝗣𝗜s on 𝗔𝗪𝗦 & 𝗩𝗲𝗿𝗰𝗲𝗹. Trained by former 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗮𝗻𝗱 𝗜𝗕𝗠 top software engineers, TechwithTim and Caleb Curry. I completed my specialization in 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 at CourseCareers Software Development course with a 4.0 GPA.
 
 ### 🚀 About Me
 - 🔭 **Current Focus:** Building scalable, monetized full-stack platforms and backend systems.
@@ -12,7 +12,25 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in 𝗣�
 
 ### 🛠️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,nodejs,react,next,tailwind,html,css,vite,express,prisma,postgres,mongodb,sqlite,aws,docker,vercel,redis,git,linux,cpp,leetcode,stripe&perline=13)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Frontend:** HTML · CSS · Tailwind CSS · Vite  
+**Backend & data:** Prisma · SQLite · Redis · SQL · NoSQL · RESTful APIs · Stripe  
+**Tools:** Git · Linux · AI (Claude) · LeetCode
 
 ---
 
