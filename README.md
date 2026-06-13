@@ -87,7 +87,6 @@ Backend Specialist, Full-Stack Software Engineer, & Founder certified in ùó£ùò
 ![xAI](https://img.shields.io/badge/xAI-000000?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
